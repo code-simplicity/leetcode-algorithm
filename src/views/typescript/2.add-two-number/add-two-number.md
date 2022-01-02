@@ -76,5 +76,6 @@ function addTwoNumbers (l1: ListNode | null, l2: ListNode | null): ListNode | nu
 }
 ```
 
-时间复杂度：`O(max(m,n))`，m 和 n 代表 l1 和 l2 的长度
+时间复杂度：`O(max(m,n))`，m 和 n 代表 l1 和 l2 的长度。
+
 空间复杂度`O(max(m,n))`。
